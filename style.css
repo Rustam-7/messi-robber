@@ -1,0 +1,126 @@
+.container{
+    max-width: 1440px;
+    padding: 0 auto;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #BCAAAA;
+    box-shadow: 0px 4px 8.7px 0px #00000040;
+
+
+}
+button{
+    width: 219px;
+height: 63px;
+top: 48px;
+left: 1007px;
+gap: 0px;
+border-radius: 20px ;
+border: 3px 0px 0px 0px;
+opacity: 0px;
+border: 3px solid #EF400F;
+background-color: white;
+font-size: 30px;
+color: #EF400F;
+
+}
+ul{
+    display: flex;
+    gap: 20px
+    ;
+
+}
+a{
+    color: #BCAAAA;
+font-size: 20px;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.q{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+input{
+    width: 386px;
+height: 63px;
+top: 216px;
+left: 444px;
+gap: 0px;
+border-radius: 20px ;
+opacity: 0px;
+background-color: black;
+font-size: 30px;
+
+}
+.pp{
+    width: 116px;
+height: 63px;
+top: 216px;
+left: 852px;
+gap: 0px;
+border-radius: 20px ;
+opacity: 0px;
+background: #0D0D5B;
+color: white;
+}
+.gg{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.ccc{
+    display: flex;
+    align-items: center;
+}
+h2{
+    color: #EF400F;
+    font-size: 30px;
+}
+.aaa{
+    color: black;
+}
+.card{
+    width: 290px;
+height: 290px;
+top: 396px;
+left: 97px;
+gap: 0px;
+border-radius: 30px ;
+opacity: 0px;
+box-shadow: 0px 4px 13.3px 0px #00000040;
+
+}
+
+.nozima{
+   margin-left: 50px;
+   margin-top: -20px;
+}
+.rustam{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px
+    ;
+    
+}
+body{
+    padding-left: 200px;
+    padding-right: 100px;
+}
+.yusuf{
+    font-size: 20px;
+}
+.ttt{
+    font-size: 20px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
